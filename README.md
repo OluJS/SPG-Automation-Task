@@ -34,7 +34,7 @@ git clone https://github.com/OluJS/SPG-Automation-Task.git
 
 ## Running The Tests
 - After succesfully cloning and installing the extensions and nuget packages, if Test Explorer isn't already open navigate to View > Test Explorer 
-- Build the solution 'Ctrl + Shift + B' or Right-click the solution > Build Solution
+- Go into the solution and build it, 'Ctrl + Shift + B' or Right-click the solution > Build Solution
 - Right-click > Run to run an individual test or click Run to run them all
 
 ![testexplorerview](https://user-images.githubusercontent.com/24880796/163870306-a53f0530-7d7c-4d96-b675-5b3a1d61eb30.png)
