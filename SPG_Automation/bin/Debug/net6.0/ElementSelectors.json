@@ -1,0 +1,5 @@
+﻿{
+	"run" : "#run-button",
+	"output" : "#output",
+	"options_chevron" : "button[class='btn btn-default btn-xs btn-sidebar-toggle']"
+}
